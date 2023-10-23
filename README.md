@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 权限管理系统
 
 #### 介绍
@@ -29,8 +28,3 @@
 ![输入图片说明](https://foruda.gitee.com/images/1689524593737762630/45113d12_11633816.png "屏幕截图")
 
 ![输入图片说明](https://foruda.gitee.com/images/1689524615070624820/327b9783_11633816.png "屏幕截图")
-=======
-# Hello World!
-## Test
-fku  gggggggg
->>>>>>> e8193de53aa9683cd9231d05f56955f0299e8500
