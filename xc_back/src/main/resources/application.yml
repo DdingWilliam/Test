@@ -1,0 +1,40 @@
+server:
+  port: 8081
+  servlet:
+    context-path: /
+
+# database
+spring:
+  datasource:
+    username: root
+    password: 503503
+    url: jdbc:mysql://127.0.0.1:3306/xc_admin
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+  redis: # redis
+    port: 6379
+    password:
+    host: localhost
+    connect-timeout: 10s
+    lettuce:
+      pool:
+        max-active: 8
+        max-wait: 200s
+        max-idle: 8
+        min-idle: 0
+
+# mybatis
+mybatis:
+  type-aliases-package: com.xcback.admin.entity
+  mapper-locations: classpath:mapper/*.xml
+  config-location: classpath:mybatis-config.xml
+
+# 分页插件配置
+pagehelper:
+  helper-dialect: mysql
+  reasonable: true
+  support-methods-arguments: true
+  params: count=countSql
+
+
+avatarImageFilePath: G:\cjj503\permission-management-system-master\xc_back\src\main\resources\image\userAvatar\

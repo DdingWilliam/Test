@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9840cae8-de2a-44da-abdb-8f12866d042d" name="nginx-server">
+        <fileTransfer accessType="SFTP" host="192.168.248.135" port="22" sshConfigId="670be3c9-d54f-4bf1-8d0b-4d25947f9e89" sshConfig="root@192.168.248.135:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

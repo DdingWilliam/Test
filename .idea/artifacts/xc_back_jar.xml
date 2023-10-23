@@ -1,0 +1,94 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="xc_back:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/xc_back_jar</output-path>
+    <root id="archive" name="xc_back.jar">
+      <element id="module-output" name="xc_back" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.75/tomcat-embed-websocket-9.0.75.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/io/netty/netty-resolver/4.1.92.Final/netty-resolver-4.1.92.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/apache/logging/log4j/log4j-to-slf4j/2.17.2/log4j-to-slf4j-2.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/com/github/pagehelper/pagehelper/5.3.2/pagehelper-5.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/com/github/pagehelper/pagehelper-spring-boot-starter/1.4.6/pagehelper-spring-boot-starter-1.4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/spring-context-support/5.3.27/spring-context-support-5.3.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/apache/commons/commons-pool2/2.11.1/commons-pool2-2.11.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/com/fasterxml/jackson/core/jackson-databind/2.13.5/jackson-databind-2.13.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/mybatis/spring/boot/mybatis-spring-boot-starter/2.3.1/mybatis-spring-boot-starter-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/commons-io/commons-io/2.5/commons-io-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/spring-context/5.3.27/spring-context-5.3.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/boot/spring-boot-starter-tomcat/2.7.12/spring-boot-starter-tomcat-2.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/commons-codec/commons-codec/1.15/commons-codec-1.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/com/alibaba/fastjson/1.2.40/fastjson-1.2.40.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/boot/spring-boot-starter-logging/2.7.12/spring-boot-starter-logging-2.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/security/spring-security-web/5.7.8/spring-security-web-5.7.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/boot/spring-boot-starter/2.7.12/spring-boot-starter-2.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/2.3.1/mybatis-spring-boot-autoconfigure-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/com/fasterxml/jackson/core/jackson-annotations/2.13.5/jackson-annotations-2.13.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/boot/spring-boot-starter-jdbc/2.7.12/spring-boot-starter-jdbc-2.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/bouncycastle/bcprov-jdk15on/1.55/bcprov-jdk15on-1.55.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/boot/spring-boot-starter-aop/2.7.12/spring-boot-starter-aop-2.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/spring-tx/5.3.27/spring-tx-5.3.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/io/netty/netty-transport/4.1.92.Final/netty-transport-4.1.92.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/boot/spring-boot-devtools/2.7.12/spring-boot-devtools-2.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/apache/tomcat/embed/tomcat-embed-core/9.0.75/tomcat-embed-core-9.0.75.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/security/spring-security-core/5.7.8/spring-security-core-5.7.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/yaml/snakeyaml/1.30/snakeyaml-1.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/boot/spring-boot/2.7.12/spring-boot-2.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/cn/hutool/hutool-all/5.3.3/hutool-all-5.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/boot/spring-boot-autoconfigure/2.7.12/spring-boot-autoconfigure-2.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/security/spring-security-crypto/5.7.8/spring-security-crypto-5.7.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/spring-beans/5.3.27/spring-beans-5.3.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/io/netty/netty-handler/4.1.92.Final/netty-handler-4.1.92.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/com/github/jsqlparser/jsqlparser/4.5/jsqlparser-4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/com/fasterxml/jackson/module/jackson-module-parameter-names/2.13.5/jackson-module-parameter-names-2.13.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/spring-webmvc/5.3.27/spring-webmvc-5.3.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/spring-core/5.3.27/spring-core-5.3.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/ch/qos/logback/logback-core/1.2.12/logback-core-1.2.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/com/fasterxml/jackson/core/jackson-core/2.13.5/jackson-core-2.13.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/com/alibaba/druid/1.1.10/druid-1.1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/ch/qos/logback/logback-classic/1.2.12/logback-classic-1.2.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/boot/spring-boot-starter-security/2.7.12/spring-boot-starter-security-2.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/io/projectreactor/reactor-core/3.4.29/reactor-core-3.4.29.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/data/spring-data-commons/2.7.12/spring-data-commons-2.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/boot/spring-boot-starter-web/2.7.12/spring-boot-starter-web-2.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/boot/spring-boot-starter-json/2.7.12/spring-boot-starter-json-2.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/spring-aop/5.3.27/spring-aop-5.3.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/io/lettuce/lettuce-core/6.1.10.RELEASE/lettuce-core-6.1.10.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.13.5/jackson-datatype-jdk8-2.13.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/com/auth0/java-jwt/3.2.0/java-jwt-3.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/io/netty/netty-codec/4.1.92.Final/netty-codec-4.1.92.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/mybatis/mybatis/3.5.13/mybatis-3.5.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.13.5/jackson-datatype-jsr310-2.13.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/projectlombok/lombok/1.18.26/lombok-1.18.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/io/netty/netty-buffer/4.1.92.Final/netty-buffer-4.1.92.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/spring-expression/5.3.27/spring-expression-5.3.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/aspectj/aspectjweaver/1.9.7/aspectjweaver-1.9.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/apache/tomcat/embed/tomcat-embed-el/9.0.75/tomcat-embed-el-9.0.75.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/boot/spring-boot-starter-data-redis/2.7.12/spring-boot-starter-data-redis-2.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/jdom/jdom/1.1/jdom-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/data/spring-data-redis/2.7.12/spring-data-redis-2.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/spring-oxm/5.3.27/spring-oxm-5.3.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/security/spring-security-config/5.7.8/spring-security-config-5.7.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/spring-jcl/5.3.27/spring-jcl-5.3.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/spring-jdbc/5.3.27/spring-jdbc-5.3.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/spring-web/5.3.27/spring-web-5.3.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/slf4j/jul-to-slf4j/1.7.36/jul-to-slf4j-1.7.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/io/netty/netty-common/4.1.92.Final/netty-common-4.1.92.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/io/netty/netty-transport-native-unix-common/4.1.92.Final/netty-transport-native-unix-common-4.1.92.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/mybatis/mybatis-spring/2.1.1/mybatis-spring-2.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/io/jsonwebtoken/jjwt/0.9.1/jjwt-0.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/com/github/pagehelper/pagehelper-spring-boot-autoconfigure/1.4.6/pagehelper-spring-boot-autoconfigure-1.4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/springframework/data/spring-data-keyvalue/2.7.12/spring-data-keyvalue-2.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/com/github/axet/kaptcha/0.0.9/kaptcha-0.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/com/zaxxer/HikariCP/4.0.3/HikariCP-4.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/com/jhlabs/filters/2.0.235/filters-2.0.235.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../java/maven_work/maven_repositoryo/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
